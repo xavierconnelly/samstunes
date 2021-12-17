@@ -9,20 +9,29 @@ body {
 }
 
 h1, h2 {
-  position: ;
   color: white;
-  font-family: arial;
+  font-family: cursive;
   margin: 0 auto;
   text-align: center;
 }
 
 h2 {
-  color: green;
+  font-family: ;
+  font-size: .9em;
 }
 
 header {
-  position: relative;
+  position: ;
   top: 50px;
+  background: green;
+  colour: white;
+  border-radius: 10px;
+}
+
+#title {
+  background: none;
+  display: flex;
+  flex-direction: column;
 }
 
 
